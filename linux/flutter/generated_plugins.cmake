@@ -3,7 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  screen_retriever_linux
+  audioplayers_linux
+  screen_retriever
   tray_manager
   window_manager
 )
