@@ -1,0 +1,30 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+pubspec.lock
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+
+# Desktop-specific (e.g. installer output)
+build/installer/
+*.exe
+
+# IDEs and editor configs
+.vscode/
+.idea/
+*.iml
+
+# macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
